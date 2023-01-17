@@ -8,4 +8,5 @@ Repositorios del curso de platzi
 * El verdadero amor por las buenas practicas
 
 Creado por el increible Sam
-*Oh si
+* Oh si
+* bla bla
