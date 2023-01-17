@@ -9,3 +9,6 @@ Repositorios del curso de platzi
 
 Creado por el increible Sam
 *Oh si
+* Oh si
+* bla bla
+* segundo bla bla
