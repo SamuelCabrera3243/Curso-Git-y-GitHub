@@ -6,3 +6,6 @@ Repositorios del curso de platzi
 * El flujo de trabajo en github
 * Trucos muy locos del profe
 * El verdadero amor por las buenas practicas
+
+Creado por el increible Sam
+*Oh si
